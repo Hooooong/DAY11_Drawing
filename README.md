@@ -3,7 +3,7 @@
 ### 설명
 ____________________________________________________
 
-![Drawing]()
+![Drawing](https://github.com/Hooooong/DAY11_Drawing/blob/master/image/Drawing.gif)
 
 - CustomView 로 만든 그림판
 
